@@ -24,7 +24,7 @@ Includes abstract, use cases, design structure, portals, reports, and system flo
 
 ## 👥 Case Types & Personas
 ### 🗂️ Case Types
-- **Courier Request / Tracking**
+- **Courier Track**
 
 ### 👩‍💼 Personas
 - **Customer** – Register/login, book courier, select vendor (Bluedart/FedEx), get instant price  
@@ -56,15 +56,15 @@ Includes abstract, use cases, design structure, portals, reports, and system flo
 ---
 
 ## 🏛️ Application Structure
-**Application Name:** DistributionSystem  
-**Application Structure:** CourierRequest  
+**Application Name:** SmartDelivery  
+**Application Structure:** CourierTrack 
 
 **Enterprise Class Layers:**  
 - Org Layer → `MyOrg`  
-- App Layer → `MyOrg-Distribu`  
-- Work Layer → `MyOrg-Distribu-Work-CourierRequest`  
-- Data Layer → `MyOrg-Distribu-Data-*`  
-- Integration Layer → `MyOrg-Distribu-Int-*`  
+- App Layer → `MyOrg-SmartDel`  
+- Work Layer → `MyOrg-SmartDel-Work-CourierTrack`  
+- Data Layer → `MyOrg-SmartDel-Data-*`  
+- Integration Layer → `MyOrg-SmartDel-Int-*`  
 
 ---
 
