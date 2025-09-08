@@ -2,6 +2,9 @@
 A Pega Constellation 24.2-based **Courier Booking and Delivery System** that automates parcel bookings, vendor selection, approvals, and delivery tracking to streamline courier management.
 
 ---
+## 📂 Project Files
+📦 [**Download Project Files (.zip)**]() 
+Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 🎬 Application Demo
 📽️ *(If you have a demo video, you can add it here. Example:)*
