@@ -8,7 +8,7 @@ Includes HLD documentation, portal designs, class structure, and screenshots.
 
 ## 🎬 Application Demo
 📽️ *(If you have a demo video, you can add it here. Example:)*
-[**Watch Courier Connect Walkthrough**](#)
+[**Watch Courier Connect Walkthrough**](https://github.com/vinithasriprathipati/courier_connect/blob/c83d3abf0b59ba120744fc4b40e5f49eb609966e/Courier%20Connect.mp4)
 
 A quick demo showcasing features like customer booking, admin approvals, package pickup, and delivery status updates.
 
